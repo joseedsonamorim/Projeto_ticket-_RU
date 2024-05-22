@@ -17,6 +17,10 @@ Esta pasta contém toda a documentação oficial do projeto, incluindo:
 - A linguagem de programação utilizada é XML.
 - O código-fonte segue as melhores práticas de codificação e documentação para garantir legibilidade, manutenabilidade e confiabilidade.
 
+### Desenvolvedores:
+- Walkiria Santos
+- José Edson Amorim
+
 ## 💻 Ferramentas de Desenvolvimento
 
 O desenvolvimento do projeto utiliza as seguintes ferramentas:
